@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sharon01110101010
 - 👀 I’m interested in computational scinece 
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me swong21@earlham.edu
 
 <!---
